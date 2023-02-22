@@ -2,6 +2,14 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+References: 
+
+i. How to make and deploy your own online resume using React.js. (n.d.). 
+      www.linkedin.com. https://www.linkedin.com/pulse/how-make-deploy-your-own-online-resume-using-reactjs-simon-defrenet/
+    
+ii. MUI: The React component library you always wanted. (n.d.). 
+      Mui.com. https://mui.com    
+
 ## Available Scripts
 
 In the project directory, you can run:
